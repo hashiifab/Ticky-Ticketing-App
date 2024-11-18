@@ -12,6 +12,6 @@
   </tr>
 </table>
 
-[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/p/CtNrygVBCNv/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/hashiifabdillah/)
 
 </center>
