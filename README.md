@@ -1,17 +1,16 @@
-<center>
+# train_ticket_buying_app
 
-## Slicing TrainTicketBuying App❤️
+A new Flutter project.
 
-<h2><i class="fab fa-instagram"></i> Screenshots <i class="fas fa-camera"></i></h2>
+## Getting Started
 
-<table>
-  <tr>
-    <td align="center"><img src="https://i.postimg.cc/bNVs9vMX/Screenshot-2023-07-10-at-20-19-23.png" alt="Screenshot 1" width="300"></td>
-    <td align="center"><img src="https://i.postimg.cc/W1QzxHTX/Screenshot-2023-07-10-at-20-19-26.png" alt="Screenshot 2" width="300"></td>
-    <td align="center"><img src="https://i.postimg.cc/Bn8tY09j/Screenshot-2023-07-10-at-20-21-06.png" alt="Screenshot 3" width="300"></td>
-  </tr>
-</table>
+This project is a starting point for a Flutter application.
 
-[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/hashiifabdillah/)
+A few resources to get you started if this is your first Flutter project:
 
-</center>
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
