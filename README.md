@@ -1,16 +1,62 @@
-# train_ticket_buying_app
+# 🚂 Ticky - Flutter Train Ticket Booking App
 
-A new Flutter project.
+## 🛠 Tech Stack
 
-## Getting Started
+**Frontend**:
+- Flutter 3.7
+- Dart 3.0
+- Google Fonts 6.1
+- Intl 0.19
 
-This project is a starting point for a Flutter application.
+**State Management**:
+- Flutter Built-in State Management
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Key Features
+- 🎟️ Real-time train schedule updates
+- 🚉 Interactive seat selection map
+- 📱 Cross-platform support (Android/iOS)
+- 🎨 Custom UI with Google Fonts integration
+- 🌐 Localization support using intl package
+- 🔒 Secure booking transactions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📂 Project Structure
+```
+Ticky-Ticketing-App/
+├── lib/
+│   ├── module/
+│   │   ├── booking_detail/    # Booking confirmation screens
+│   │   ├── dashboard/         # Home screen components
+│   │   ├── seat_picker/       # Seat selection logic and UI
+│   │   ├── user/             # Profile management
+│   │   └── ...
+│   ├── shared/
+│   │   ├── theme/            # App theme configurations
+│   │   └── widgets/          # Reusable UI components
+│   ├── app_data.dart         # Data models and repositories
+│   └── main.dart             # Application entry point
+├── assets/
+│   └── images/               # App assets (e.g., qr.png)
+├── android/                  # Android platform code
+├── ios/                      # iOS platform code
+└── test/                     # Widget tests
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖥 Local Development
+```bash
+# Install dependencies
+flutter pub get
+
+# Run development server
+flutter run lib/main.dart
+```
+
+## 📝 Environment Setup
+1. Ensure Flutter SDK 3.7+ is installed
+2. Android Studio/Xcode for platform-specific setups
+3. Enable Android/iOS simulator or connect physical device
+
+## 👨💻 Author
+- GitHub: [@hashiifabdillah](https://github.com/hashiifab)
+- LinkedIn: [Hashiif Abdillah](https://www.linkedin.com/in/hashiif-abdillah-665373297/)
+
+🚂 Built with Flutter to revolutionize train ticket booking experiences!
